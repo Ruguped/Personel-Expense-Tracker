@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+table{
+  width: 70%;
+  
+}
